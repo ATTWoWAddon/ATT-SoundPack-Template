@@ -6,6 +6,11 @@ end
 
 -- Here are some examples of how to use the API:
 local api = AllTheThings.Audio;
+if not api then
+	print(appName .. ": AllTheThings.Audio API is not available. Please make sure that you are using version 3.5.6 or the latest [Git] for the AllTheThings addon!");
+	return;
+end
+
 --[[
 -- Example: All default sounds. If you don't supply any replacement
 -- sound tables, then each of the tables will fallback to their
