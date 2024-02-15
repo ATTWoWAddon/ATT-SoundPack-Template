@@ -4,9 +4,6 @@ name: Release
 
 # Controls when the action will run.
 on:
-  # Package alpha version at midnight UTC every Friday
-  schedule:
-    - cron: '0 6 * * THU'
   # Triggers the workflow on tag events
   push:
     tags: '*'
