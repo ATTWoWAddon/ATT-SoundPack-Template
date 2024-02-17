@@ -64,22 +64,22 @@ api:CreateSoundPack("Age of Empires (" .. appName .. ")", {
 
 api:CreateSoundPack("Final Fantasy VII (" .. appName .. ")", {
 	COMPLETE = {
-		asset("ffvii/complete1.mp3"),
+		asset("ffvii/complete1.wav"),
 	},
 	DEATH = {
-		asset("ffvii/death.mp3"),
+		asset("ffvii/death.wav"),
 	},
 	FANFARE = {
-		asset("ffvii/fanfare1.mp3"),
+		asset("ffvii/fanfare1.wav"),
 	},
 	RAREFIND = {
-		asset("ffvii/rarefind1.mp3"),
+		asset("ffvii/rarefind1.wav"),
 	},
 	REMOVE = {
-		asset("ffvii/remove1.mp3"),
+		asset("ffvii/remove1.wav"),
 	},
 	REPORT = {
-		asset("ffvii/report1.mp3"),
+		asset("ffvii/report1.wav"),
 	},
 });
 
