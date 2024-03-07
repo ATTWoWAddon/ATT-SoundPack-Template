@@ -51,6 +51,9 @@ api:CreateSoundPack("Age of Empires (" .. appName .. ")", {
 	FANFARE = {
 		asset("aoe/fanfare1.mp3"),
 	},
+	MOUNTFANFARE = {
+		asset("aoe/mountfanfare1.mp3"),
+	},
 	RAREFIND = {
 		asset("aoe/rarefind1.mp3"),
 	},
@@ -71,6 +74,12 @@ api:CreateSoundPack("Final Fantasy VII (" .. appName .. ")", {
 	},
 	FANFARE = {
 		asset("ffvii/fanfare1.wav"),
+		asset("ffvii/fanfare2.wav"),
+		asset("ffvii/fanfare3.wav"),
+		asset("ffvii/fanfare4.wav"),
+	},
+	MOUNTFANFARE = {
+		asset("ffvii/mountfanfare1.mp3"),
 	},
 	RAREFIND = {
 		asset("ffvii/rarefind1.wav"),
