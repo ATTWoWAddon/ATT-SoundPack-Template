@@ -1,8 +1,8 @@
-## Title: ATT-SoundPack-Template
+## Title: ATT-SoundPack-Template |cfd9b9b9b(Classic)|r
 ## Author: Crieve
 ## IconTexture: Interface\AddOns\AllTheThings\assets\SoundPackIcon.blp
 ## Dependencies: AllTheThings
-## Interface: 100205
+## Interface: 11501
 ## Version: @project-version@
 ## X-Curse-Project-ID: 904737
 ## X-Wago-ID: b6XVyjGp
