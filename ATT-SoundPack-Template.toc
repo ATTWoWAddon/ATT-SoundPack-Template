@@ -3,6 +3,9 @@
 ## IconTexture: Interface\AddOns\AllTheThings\assets\SoundPackIcon.blp
 ## Dependencies: AllTheThings
 ## Interface: 100205
+## Interface-Classic: 11501
+## Interface-BCC: 20504
+## Interface-Wrath: 30403
 ## Version: @project-version@
 ## X-Curse-Project-ID: 904737
 ## X-Wago-ID: b6XVyjGp
