@@ -2,7 +2,7 @@
 ## Author: Crieve
 ## IconTexture: Interface\AddOns\AllTheThings\assets\SoundPackIcon.blp
 ## Dependencies: AllTheThings
-## Interface: 100205
+## Interface: 11502, 11503, 20504, 30403, 40400, 100207, 110000, 110002
 ## Version: @project-version@
 ## X-Curse-Project-ID: 904737
 ## X-Wago-ID: b6XVyjGp
